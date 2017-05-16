@@ -1,0 +1,28 @@
+{
+  "name": "react-native-f-router",
+  "version": "0.1.0",
+  "description": "我自己用的 react-router 在 React Native 上的实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-happy/react-native-f-router.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-router",
+    "react-router"
+  ],
+  "author": "jonnyf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/F-happy/react-native-f-router/issues"
+  },
+  "homepage": "https://github.com/F-happy/react-native-f-router#readme",
+  "devDependencies": {
+    "react": "^15.5.4",
+    "react-native": "^0.44.0"
+  }
+}
