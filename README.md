@@ -1,5 +1,9 @@
 # react-native-f-router
-我自己用的 react-router 在 React Native 上的实现
+
+[![npm](https://img.shields.io/npm/v/react-native-f-router.svg?style=flat-square)](https://www.npmjs.com/package/react-native-f-router)
+[![npm](https://img.shields.io/npm/l/react-native-f-router.svg?style=flat-square)](https://www.npmjs.com/package/react-native-f-router)
+
+>我自己用的 react-router 在 React Native 上的实现
 
 ## 安装
 ```bash
